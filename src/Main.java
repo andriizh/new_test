@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import test.java;
 /**
  * Created by andriiz on 28.06.17.
  */
